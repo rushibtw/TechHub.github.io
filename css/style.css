@@ -26,7 +26,9 @@
 
 
 
-
+html{
+	scroll-behavior: smooth;
+}
 
 /*............................tech...............*/
 
@@ -39,6 +41,7 @@
 .tech h1{
 	font-size: 50px ;
 	font-weight: bold;
+	padding: 24px;
 
 }
 
@@ -86,6 +89,7 @@
 .explore h1{
 	font-size: 50px;
 	font-weight: bold;
+	padding: 24px;
 }
 
 
@@ -107,6 +111,7 @@ width: 100%;
 .ourteam h1{
  font-size: 50px;
  font-weight: bold;
+ padding: 24px;
 }
 
 
@@ -133,7 +138,7 @@ width: 100%;
 	overflow: hidden;
 	padding: 70px 0px;
 	box-sizing: border-box;
-	background-color: #18181a;
+	background-color: #212529;
 	}
 
 .inner_footer{
@@ -213,8 +218,46 @@ width: 100%;
 
 }
 
+/*////////////Contact////////*/
+
+.contact{
+
+	background-color: #f6f5f4;
+	height: 700px;
+
+}
+.contact h1{
+ font-size: 40px;
+ font-weight: bold;
+ padding: 24px;
+}
+
+.form{
+	
+	max-width: 70%;
+	margin: 25px auto;
+
+}
+.form-input{
+	margin: 15px 0;
+	padding: 5px 5px;
+	width: 100%;
+	font-size: 18px;
+	border: 2px solid grey;
+	border-radius: 10px;
 
 
+}
+
+
+.btn-dark{
+    
+    margin-top: 30px;
+	width: 100%;
+	color:black;
+	border:black;
+
+} 
 
 
 /*////////////Responsive////////*/
@@ -276,7 +319,8 @@ width: 100%;
 
 	.inner_footer .logo_container,
 	.inner_footer .footer_third{
-
+		
+		
 		width: 100%;
 		margin-bottom: 30px;
 	}

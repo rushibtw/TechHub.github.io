@@ -28,15 +28,15 @@
 
 
 
-/*............................ourservice...............*/
+/*............................tech...............*/
 
-.ourservice{
+.tech{
 
 	padding: 100px 0px 60px;
 	height: 700px;
 }
 
-.ourservice h1{
+.tech h1{
 	font-size: 50px ;
 	font-weight: bold;
 
@@ -73,17 +73,17 @@
 }
 
 
-/*portfolio........................................*/
+/*...............EXPLORE.......................................*/
 
-.portfolio{
+.explore{
 
-	height: 1100px;
+	height: 1000px;
 	width: 100%;
 	padding: 100px 0px 50px;
 
 }
 
-.portfolio h1{
+.explore h1{
 	font-size: 50px;
 	font-weight: bold;
 }
@@ -239,24 +239,24 @@ width: 100%;
 	 		font-weight: bold;
 		}
 
- 	.ourservice
+ 		.tech
  		{
 
 			
 			height: 600px;
 		}
-		.ourservice h1
+		.tech h1
 		{
 			font-size: 50px ;
 	
 		}
 
-		.portfolio{
+		.explore{
 
 			height: 800px;
 		}	
 
-		.portfolio h1{
+		.explore h1{
 			font-size: 50px;
 	 		}
 
@@ -299,24 +299,24 @@ width: 100%;
 	 		font-weight: bold;
 		}
 
- 	.ourservice
+ 		.tech
  		{
 
 			
 			height: 600px;
 		}
-		.ourservice h1
+		.tech h1
 		{
 			font-size: 50px ;
 	
 		}
 
-		.portfolio{
+		.explore{
 
 			height: 3000px;
 		}	
 
-		.portfolio h1{
+		.explore h1{
 			font-size: 50px;
 	 		}
 
@@ -358,24 +358,24 @@ width: 100%;
 	 		font-weight: bold;
 		}
 
- 	.ourservice
+ 		.tech
  		{
 
 			
 			height: 1000px;
 		}
-		.ourservice h1
+		.tech h1
 		{
 			font-size: 40px ;
 	
 		}
 
-		.portfolio{
+		.explore{
 
-			height: 2500px;
+			height: 2600px;
 		}	
 
-		.portfolio h1{
+		.explore h1{
 			font-size: 40px;
 	 		}
 
@@ -406,24 +406,24 @@ width: 100%;
 	 		font-weight: bold;
 		}
 
- 	.ourservice
+ 		.tech
  		{
 
 			
 			height: 1000px;
 		}
-		.ourservice h1
+		.tech h1
 		{
 			font-size: 40px ;
 	
 		}
 
-		.portfolio{
+		.explore{
 
-			height: 2500px;
+			height: 2400px;
 		}	
 
-		.portfolio h1{
+		.explore h1{
 			font-size: 40px;
 	 		}
 

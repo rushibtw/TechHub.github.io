@@ -1,3 +1,19 @@
+
+/*///////////For Hover Effect////////*/
+ .container li:hover{
+    font-size: 20px;
+  }
+
+  .row i:hover{
+    transform: scale(1.3);
+  }
+  .row img:hover{
+   transform: scale(1.1); 
+  }
+/*//////////////////////////////////////*/
+
+
+
 .bgimg{
 	 background-image: url('../img/Body.jpg');
 	 background-size: 100% 100%;
@@ -319,8 +335,8 @@ width: 100%;
 
 	.inner_footer .logo_container,
 	.inner_footer .footer_third{
-		
-		
+
+
 		width: 100%;
 		margin-bottom: 30px;
 	}
